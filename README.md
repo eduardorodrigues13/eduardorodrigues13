@@ -1,28 +1,40 @@
-# Oi, eu sou o Eduardo Rodrigues! <img src="https://clipart-library.com/images/kTMKpaGxc.gif" style="width: 100px; height: 70px; padding:0;">
+## Olá! Eu sou o Eduardo Rodrigues
 
-Bem-vindo ao meu cantinho de programação, onde a criatividade se mistura com a funcionalidade!
-
-**Sobre Mim:**
 - 📚 Estudante de Sistemas de Informação.
 - 💻 Apaixonado por CSS, a linguagem que dá vida aos meus projetos.
 
-**Curiosidades:**
-- 🎵 Trilha sonora: Lo-fi e folk.
-- 🍪 Lanche sagrado: Biscoito.
+<div>
+  <a href="https://github.com/eduardorodrigues13">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardorodrigues13&show_icons=true&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorodrigues13&theme=dark">
+</div>
 
-**Projetos 🚀:**
-- [Formulário Interativo para Coleta de Dados sobre Investimentos](link.com)
+##
 
-**Projetos dos Sonhos:**
-- 🎮 Desenvolver um jogo envolvente como o Club Penguin.
+<div>
+  <h3>Projetos</h3>
+  <ul>
+  <li><a href="https://github.com/eduardorodrigues13/forms"><p>Formulário sobre Conhecimento em Investimentos</p></a></li>
+  </ul>
+</div>
 
-**Mantenha-se Conectado:**
-- 💻 [LinkedIn](https://www.linkedin.com/in/eduardo-santos-r/)
-- 🐦 [Twitter](https://twitter.com/eduardo13dev)
-- 📺 Buscando inspiração no YouTube.
+##
 
-**Palavras de Sabedoria:**
-- 🌟 "Hello World! Vamos fazer a diferença juntos."
-- 💪 Conselho: "Nunca desista. Cada linha de código é um passo ao seu sonho."
+<div style="display: inline;"><br>
+<img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+</div>
 
-Explore meus [repositórios](link-para-repositorios) e junte-se à minha jornada de programação. A viagem é tão importante quanto o destino! 🚀✨
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/eduardo-santos-r/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/eduardo13dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://instagram.com/edu.t.v/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+
+##
+
+**"Nunca desista. Cada linha de código é um passo ao seu sonho."**
+
+Explore meus [repositórios](https://github.com/eduardorodrigues13?tab=repositories) e junte-se à minha jornada de programação. A viagem é tão importante quanto o destino! 🚀✨
