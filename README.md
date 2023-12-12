@@ -38,3 +38,5 @@
 **"Nunca desista. Cada linha de código é um passo ao seu sonho."**
 
 Explore meus [repositórios](https://github.com/eduardorodrigues13?tab=repositories) e junte-se à minha jornada de programação. A viagem é tão importante quanto o destino! 🚀✨
+
+[!Snake animation]
