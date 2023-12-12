@@ -1,16 +1,28 @@
-### Hi there 👋
+# Oi, eu sou o Eduardo Rodrigues! <img src="https://clipart-library.com/images/kTMKpaGxc.gif" style="width: 100px; height: 70px; padding:0;">
 
-<!--
-**eduardorodrigues13/eduardorodrigues13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu cantinho de programação, onde a criatividade se mistura com a funcionalidade!
 
-Here are some ideas to get you started:
+**Sobre Mim:**
+- 📚 Estudante de Sistemas de Informação.
+- 💻 Apaixonado por CSS, a linguagem que dá vida aos meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Curiosidades:**
+- 🎵 Trilha sonora: Lo-fi e folk.
+- 🍪 Lanche sagrado: Biscoito.
+
+**Projetos 🚀:**
+- [Formulário Interativo para Coleta de Dados sobre Investimentos](link.com)
+
+**Projetos dos Sonhos:**
+- 🎮 Desenvolver um jogo envolvente como o Club Penguin.
+
+**Mantenha-se Conectado:**
+- 💻 [LinkedIn](https://www.linkedin.com/in/eduardo-santos-r/)
+- 🐦 [Twitter](https://twitter.com/eduardo13dev)
+- 📺 Buscando inspiração no YouTube.
+
+**Palavras de Sabedoria:**
+- 🌟 "Hello World! Vamos fazer a diferença juntos."
+- 💪 Conselho: "Nunca desista. Cada linha de código é um passo ao seu sonho."
+
+Explore meus [repositórios](link-para-repositorios) e junte-se à minha jornada de programação. A viagem é tão importante quanto o destino! 🚀✨
