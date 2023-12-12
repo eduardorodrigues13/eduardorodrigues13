@@ -39,4 +39,4 @@
 
 Explore meus [repositórios](https://github.com/eduardorodrigues13?tab=repositories) e junte-se à minha jornada de programação. A viagem é tão importante quanto o destino! 🚀✨
 
-[!Snake animation]
+[!Snake animation](https://github.com/eduardorodrigues13/eduardorodrigues13/blob/output/github-contribution-grid-snake.svg/)
