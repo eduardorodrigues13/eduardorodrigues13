@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Eduardo Rodrigues
 
-- 📚 Estudante de Sistemas de Informação.
-- 💻 Apaixonado por CSS, a linguagem que dá vida aos meus projetos.
+- 📚 Estudante de Ciência da Computação.
+- 💻 Apaixonado por análise dados.
 
 <div>
   <a href="https://github.com/eduardorodrigues13">
