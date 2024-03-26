@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Eduardo Rodrigues
 
 - 📚 Estudante de Ciência da Computação.
-- 💻 Apaixonado por análise dados.
+- 💻 Apaixonado por Análise de Dados.
+- HTML, CSS, Python e JS.
 
 <div>
   <a href="https://github.com/eduardorodrigues13">
@@ -15,14 +16,16 @@
   <h3>Projetos</h3>
   <ul>
   <li><a href="https://github.com/eduardorodrigues13/forms"><p>Formulário sobre Conhecimento em Investimentos</p></a></li>
+  <li><a href="cebrac-100.netlify.app"><p>Cebrac 100%</p></a></li>
   </ul>
 </div>
 
 ##
 
 <div style="display: inline;"><br>
-<img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img height="30" width="40" align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img height="30" width="40" align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img height="30" width="40" align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 ##
