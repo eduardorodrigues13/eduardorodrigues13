@@ -16,7 +16,7 @@
   <h3>Projetos</h3>
   <ul>
   <li><a href="https://github.com/eduardorodrigues13/forms"><p>Formulário sobre Conhecimento em Investimentos</p></a></li>
-  <li><a href="cebrac-100.netlify.app"><p>Cebrac 100%</p></a></li>
+  <li><a href="https://cebrac-100.netlify.app"><p>Cebrac 100%</p></a></li>
   </ul>
 </div>
 
