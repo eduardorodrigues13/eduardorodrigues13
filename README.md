@@ -15,9 +15,9 @@
 <div>
   <h3>Projetos</h3>
   <ul>
-  <li><a href="http://crazycatgang.netlify.app"><p>Crazy Cat Gang [EM PRODUÇÃO]</p></a></li>
-  <li><a href="https://github.com/eduardorodrigues13/forms"><p>Formulário sobre Conhecimento em Investimentos</p></a></li>
-  <li><a href="https://cebrac-100.netlify.app"><p>Cebrac 100%</p></a></li>
+  <li><a href="http://crazycatgang.netlify.app" target="_blank"><p>Crazy Cat Gang [EM PRODUÇÃO]</p></a></li>
+  <li><a href="https://github.com/eduardorodrigues13/forms" target="_blank"><p>Formulário sobre Conhecimento em Investimentos</p></a></li>
+  <li><a href="https://cebrac-100.netlify.app" target="_blank"><p>Cebrac 100%</p></a></li>
   </ul>
 </div>
 
